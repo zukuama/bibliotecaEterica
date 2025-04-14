@@ -1,0 +1,23 @@
+[
+    {
+      "nombre": "Astral",
+      "imagen": "imagenes/astral.webp",
+      "archivo": "datos/astral.json"
+    },
+    {
+      "nombre": "Filosofía",
+      "imagen": "imagenes/filosofia.webp",
+      "archivo": "datos/filosofia.json"
+    },
+    {
+      "nombre": "Crecimiento",
+      "imagen": "imagenes/crecimiento.jpg",
+      "archivo": "datos/crecimiento.json"
+    },
+    {
+      "nombre": "Energía",
+      "imagen": "imagenes/energia.jpg",
+      "archivo": "datos/energia.json"
+    }
+  ]
+  

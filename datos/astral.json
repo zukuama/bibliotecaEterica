@@ -1,0 +1,16 @@
+[
+    {
+      "id":"01",
+      "titulo": "Viajes Astrales",
+      "autor": "J. Monroe",
+      "descripcion": "Guía práctica para experiencias extracorporales.",
+      "imagen": "imagenes/astral.webp"
+    },
+    {
+      "titulo": "Explorando el Astral",
+      "autor": "A. Buhlman",
+      "descripcion": "Métodos efectivos para explorar otras dimensiones.",
+      "imagen": "imagenes/astral.jpg"
+    }
+  ]
+  

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Biblioteca Etérica</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <header>
+        <h1>Biblioteca Etérica</h1>
+        <nav>
+            <button class="menu-toggle">☰</button>
+            <ul class="menu">
+                <li><a href="#secciones">Secciones</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="buscador">
+            <input type="text" placeholder="Buscar libros..." />
+        </section>
+
+        <section id="lo-mas-visto">
+            <h2>Lo más visto esta semana</h2>
+            <div class="carrusel">
+                <!-- Carrusel dinámico -->
+            </div>
+        </section>
+
+        <section id="secciones">
+            <h2>Secciones</h2>
+            <div class="tarjetas-secciones">
+                <!-- Secciones dinámicas desde datosSecciones.json -->
+            </div>
+        </section>
+    </main>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
