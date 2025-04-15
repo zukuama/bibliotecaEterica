@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "Viajes Astrales",
+    "autor": "Robert Monroe",
+    "descripcion": "Guía para principiantes sobre cómo realizar viajes astrales de forma segura.",
+    "imagen": "https://via.placeholder.com/120x170?text=Astral1",
+    "ver": "https://example.com/ver/viajes-astrales",
+    "descargar": "https://example.com/descargar/viajes-astrales.pdf"
+  },
+  {
+    "titulo": "Exploración del cuerpo astral",
+    "autor": "Oliver Fox",
+    "descripcion": "Una obra clásica sobre las experiencias extracorporales.",
+    "imagen": "https://via.placeholder.com/120x170?text=Astral2",
+    "ver": "https://example.com/ver/exploracion-cuerpo-astral",
+    "descargar": "https://example.com/descargar/exploracion-cuerpo-astral.pdf"
+  }
+]

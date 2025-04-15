@@ -1,0 +1,9 @@
+[
+  { "nombre": "ASTRAL", "archivo": "astral", "imagen": "https://via.placeholder.com/350x220?text=Astral" },
+  { "nombre": "ENERGIA", "archivo": "energia", "imagen": "https://via.placeholder.com/350x220?text=Energia" },
+  { "nombre": "FILOSOFIA", "archivo": "filosofia", "imagen": "https://via.placeholder.com/350x220?text=Filosofia" },
+  { "nombre": "CHAMANISMO", "archivo": "chamanismo", "imagen": "https://via.placeholder.com/350x220?text=Chamanismo" },
+  { "nombre": "MEDITACION", "archivo": "meditacion", "imagen": "https://via.placeholder.com/350x220?text=Meditacion" },
+  { "nombre": "PSIQUE", "archivo": "psique", "imagen": "https://via.placeholder.com/350x220?text=Psique" }
+  // Agregar aquí el resto de las secciones siguiendo este mismo formato
+]

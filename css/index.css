@@ -1,0 +1,35 @@
+.header {
+  background-color: #ffffff;
+  padding: 1rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.header h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.menu-hamburguesa {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
+
+.search-bar {
+  width: 70%;
+  margin: 2rem auto;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.2rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.section-title {
+  text-align: center;
+  margin: 2rem 0 1rem 0;
+  font-size: 1.5rem;
+}

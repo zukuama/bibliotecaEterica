@@ -1,16 +1,34 @@
-/proyecto-biblioteca-eterica
+Biblioteca-Eterica/
+│
 ├── index.html
-├── seccion.html
-├── datosSecciones.json
-├── datos/astral.json
-├── datos/filosofia.json
-├── datos/crecimiento.json
-├── datos/energia.json
-├── css/style.css
-├── js/main.js
-├── js/seccion.js
-└── imagenes/
-    ├── astral.jpg
-    ├── filosofia.jpg
-    ├── crecimiento.jpg
-    └── energia.jpg
+├── secciones.html
+│
+├── pages/
+│   ├── astral.html
+│   ├── energia.html
+│   ├── filosofia.html
+│   ├── ... (otras secciones)
+│
+├── css/
+│   ├── main.css
+│   ├── index.css
+│   ├── secciones.css
+│   ├── libros.css
+│
+├── scripts/
+│   ├── main.js
+│   ├── index.js
+│   ├── secciones.js
+│   ├── libros.js
+│
+├── json/
+│   ├── datosSecciones.json
+│   ├── astral.json
+│   ├── energia.json
+│   ├── filosofia.json
+│   ├── ... (otros JSON de secciones)
+│
+└── assets/
+    └── img/
+        ├── default-cover.jpg
+        ├── ... (otras imágenes)
